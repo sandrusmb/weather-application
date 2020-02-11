@@ -2,7 +2,7 @@
 
 ## Reto
 
-Trabajar con React.js y API Rest (OpenweatherMap API).
+Trabajar con React.js, API Rest (OpenweatherMap API) y Bootstrap.
 
 ## Pasos
 
