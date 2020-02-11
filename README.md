@@ -8,9 +8,10 @@ He seguido las instrucciones de un [tutorial de Youtube](https://www.youtube.com
 
 ## Webgrafía
 
-https://openweathermap.org/api
-https://bootswatch.com/
-https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Spread_operator
+- [Open Weather Map API](https://openweathermap.org/api)
+- [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+- [Bootswatch](https://bootswatch.com/)
+- [Spread operator](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Spread_operator)
 
 ## Pasos
 
