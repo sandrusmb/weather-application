@@ -8,7 +8,7 @@ function WeatherForm(props) {
           <input
             type="text"
             name="city"
-            placeholder="Escribe el nombre de tu ciudad"
+            placeholder="Your city name"
             className="form-control"
             autoFocus
           />
@@ -17,12 +17,12 @@ function WeatherForm(props) {
           <input
             type="text"
             name="country"
-            placeholder="Escribe el nombre de tu país"
+            placeholder="Your country name"
             className="form-control"
             autoFocus
           />
         </div>
-        <button className="btn btn-success btn-block">Enviar</button>
+        <button className="btn btn-success btn-block">Search</button>
       </form>
     </div>
   );
