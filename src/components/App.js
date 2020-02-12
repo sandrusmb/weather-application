@@ -30,7 +30,7 @@ class App extends React.Component {
     const countryValue = country.value;
 
     if (cityValue) {
-      const API_URL = `http://api.openweathermap.org/data/2.5/weather?q=${cityValue},${countryValue}&appid=${WEATHER_KEY}&units=metric`;
+      const API_URL = `https://api.openweathermap.org/data/2.5/weather?q=${cityValue},${countryValue}&appid=${WEATHER_KEY}&units=metric`;
 
       const response = await fetch(API_URL);
       const data = await response.json();
