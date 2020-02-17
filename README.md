@@ -28,4 +28,6 @@ He seguido las instrucciones de un [tutorial de Youtube](https://www.youtube.com
 - [x] Pintar los datos con las props
 - [x] Validar mediante condicionales qué pasa cuando no se hace una búsqueda.
 
+***
+
 => Búscame en [Linkedin](https://www.linkedin.com/in/sandramartinbartolome/)
